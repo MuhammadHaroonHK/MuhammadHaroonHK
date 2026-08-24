@@ -99,7 +99,21 @@ Appointment booking platform built with Core PHP, MySQL, and Bootstrap.
 
 <img src="https://streak-stats.demolab.com?user=MuhammadHaroonHK&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 
-<img src="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/snake.svg" alt="Snake animation" width="90%"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/github-snake.svg"
+    alt="GitHub Snake Animation"
+    width="90%"
+  />
+</picture>
 
 </div>
 
