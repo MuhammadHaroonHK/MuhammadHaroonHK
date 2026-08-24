@@ -94,10 +94,13 @@ Appointment booking platform built with Core PHP, MySQL, and Bootstrap.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadHaroonHK&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800" alt="Haroon's GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaroonHK&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="42%" />
+<img src="./profile/stats.svg" alt="Haroon's GitHub Stats" width="49%" />
 
-<img src="https://streak-stats.demolab.com?user=MuhammadHaroonHK&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<img src="./profile/top-langs.svg" alt="Top Languages" width="42%" />
+
+<br/>
+
+<img src="./profile/streak.svg" alt="GitHub Streak" width="70%" />
 
 <picture>
   <source
