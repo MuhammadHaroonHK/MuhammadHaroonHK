@@ -93,31 +93,49 @@ Appointment booking platform built with Core PHP, MySQL, and Bootstrap.
 ## 📊 GitHub Stats
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./profile/stats.svg" alt="Haroon's GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="./profile/top-langs.svg" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
 
-<img src="./profile/stats.svg" alt="Haroon's GitHub Stats" width="49%" />
+  <br/>
 
-<img src="./profile/top-langs.svg" alt="Top Languages" width="42%" />
+  <div style="width: 80%; margin: 0 auto;">
+    <img src="./profile/streak.svg" alt="GitHub Streak" width="100%" />
+  </div>
+
+  <br/>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/github-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/github-snake.svg"
+      alt="GitHub Snake Animation"
+      width="100%"
+      style="max-width: 800px; border-radius: 10px;"
+    />
+  </picture>
+</div>
 
 <br/>
 
-<img src="./profile/streak.svg" alt="GitHub Streak" width="70%" />
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/MuhammadHaroonHK/MuhammadHaroonHK/output/github-snake.svg"
-    alt="GitHub Snake Animation"
-    width="90%"
-  />
-</picture>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadHaroonHK&style=flat-square&color=2F80ED" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/MuhammadHaroonHK?style=flat-square&logo=github&color=2F80ED" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/MuhammadHaroonHK?style=flat-square&logo=github&color=2F80ED" alt="GitHub Stars" />
 </div>
 
 ## 📫 Connect With Me
